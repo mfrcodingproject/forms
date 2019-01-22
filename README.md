@@ -150,7 +150,7 @@ Now the browser takes over, and does two things. First it collects the data from
 
 Second, it sends that data over the internet to the address specified by the `<form>`'s `action` attribute.
 
-![Form Submission](https://raw.githubusercontent.com/Ada-Developers-Academy/textbook-curriculum/master/05-html-css/exercises/images/form_exercise_result.png)
+![Form Submission](https://raw.githubusercontent.com/Ada-Developers-Academy/textbook-curriculum/master/05-html-css/imgs/form_submit_workflow.png)
 
 ## Summary
 
